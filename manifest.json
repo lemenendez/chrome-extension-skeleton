@@ -1,0 +1,6 @@
+{
+  "name": "Google Chrome Extension Skeleton",
+  "version": "1.0",
+  "description": "Enter description",
+  "manifest_version" : 2
+}
