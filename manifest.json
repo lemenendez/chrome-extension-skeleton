@@ -2,5 +2,9 @@
   "name": "Google Chrome Extension Skeleton",
   "version": "1.0",
   "description": "Enter description",
-  "manifest_version" : 2
+  "manifest_version" : 2,
+  "browser_action": {
+    "default_icon": "images/default.png",
+    "default_title": "Google Chrome Extension Skeleton"
+  }
 }
