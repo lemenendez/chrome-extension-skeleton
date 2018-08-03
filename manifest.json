@@ -5,6 +5,11 @@
   "manifest_version" : 2,
   "browser_action": {
     "default_icon": "images/default.png",
+    "default_popup": "popup.html",    
     "default_title": "Google Chrome Extension Skeleton"
-  }
+  },
+  "background": {
+    "scripts": ["js/background.js"],
+    "persistent": false
+  }  
 }
